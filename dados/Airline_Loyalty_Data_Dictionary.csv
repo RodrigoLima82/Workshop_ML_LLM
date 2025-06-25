@@ -1,0 +1,25 @@
+﻿Table;Field;Description_eng;Description_br
+Customer_Flight_Activity;Loyalty_Number;Customer's unique loyalty number;Número de fidelidade exclusivo do cliente
+Customer_Flight_Activity;Year;Year of the period;Ano do período
+Customer_Flight_Activity;Month;Month of the period;Mês do período
+Customer_Flight_Activity;Total_Flights;Sum of Flights Booked (all tickets purchased in the period);Soma dos Voos Reservados (todos os bilhetes comprados no período)
+Customer_Flight_Activity;Distance;Flight distance traveled in the period (km);Distância percorrida no período (km)
+Customer_Flight_Activity;Points_Accumulated;Loyalty points accumulated in the period;Pontos de fidelidade acumulados no período
+Customer_Flight_Activity;Points_Redeemed;Loyalty points redeemed in the period;Pontos de fidelidade resgatados no período
+Customer_Flight_Activity;Dollar_Cost_Points_Redeemed;Dollar equivalent for points redeemed in the period in CDN;Equivalente em dólares para pontos resgatados no período
+Customer_Loyalty_History;Loyalty_Number;Customer's unique loyalty number;Número de fidelidade exclusivo do cliente
+Customer_Loyalty_History;Country;Country of residence;País de residência
+Customer_Loyalty_History;Province;Province of residence;Estado de residência
+Customer_Loyalty_History;City;City of residence;Cidade de residência
+Customer_Loyalty_History;Postal_Code;Postal code of residence;Código postal de residência
+Customer_Loyalty_History;Gender;Gender;Gênero
+Customer_Loyalty_History;Education;Highest education level (High school or lower > College > Bachelor > Master > Doctor);Nível de escolaridade mais alto (High school or lower > College > Bachelor > Master > Doctor)
+Customer_Loyalty_History;Salary;Annual income;Renda anual
+Customer_Loyalty_History;Marital_Status;Marital status (Single, Married, Divorced);Estado civil (solteiro, casado, divorciado)
+Customer_Loyalty_History;Loyalty_Card;Loyalty card status (Star > Nova > Aurora);Status do cartão de fidelidade (Star > Nova > Aurora)
+Customer_Loyalty_History;CLV;Customer lifetime value - total invoice value for all flights ever booked by member;Valor vitalício do cliente - valor total da fatura para todos os voos já reservados pelo membro
+Customer_Loyalty_History;Enrollment_Type;Enrollment type (Standard / 2018 Promotion);Tipo de inscrição (Padrão/Promoção)
+Customer_Loyalty_History;Enrollment_Year;Year Member enrolled in membership program;Ano de inscrito no programa de associação
+Customer_Loyalty_History;Enrollment_Month;Month Member enrolled in membership program;Mês de inscrito no programa de associação
+Customer_Loyalty_History;Cancellation_Year;Year Member cancelled their membership;O ano que cancelou sua associação
+Customer_Loyalty_History;Cancellation_Month;Month Member cancelled their membership;O mes que cancelou sua assinatura
